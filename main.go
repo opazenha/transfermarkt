@@ -3,7 +3,7 @@ package main
 import "time"
 
 func main() {
-
+	getPLayersData()
 }
 
 func getPLayersData() {
